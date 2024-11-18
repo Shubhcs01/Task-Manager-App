@@ -1,6 +1,6 @@
 ## Task Manager App
 
-Build a Task Management App  with the following core functionalities:
+Build a Task Management App (within 4 hrs.) with the following core functionalities:
 1. Add, Edit, Delete, and Mark Tasks as Completed
 2. Sort tasks dynamically by priority (high, medium, low).
 3. Server-side rendering (SSR) using Next.js for initial task loading.
